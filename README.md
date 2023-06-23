@@ -44,9 +44,7 @@ In everyday life, I love to see the world with an artistic view and am easily sa
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dulara-dinuli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<img align="left" style="position:'absolute'; left:'0';" width = "45%" height = "10%" src="https://github-readme-stats.vercel.app/api?username=dulara-dinuli&show_icons=true&theme=gruvbox" alt="GitHub stats" />
-<img align="right" style="position:'absolute'; right:'0';" width = "55%" height = "10%" src="https://streak-stats.demolab.com?user=dulara-dinuli&theme=gruvbox&border_radius=4.5" alt="GitHub Streak"/> 
- 
+<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=dulara-dinuli&show_icons=true&theme=gruvbox" alt="GitHub stats"/> <img align="right" width="48%" src="https://streak-stats.demolab.com?user=dulara-dinuli&theme=gruvbox&border_radius=4.5" alt="GitHub Streak"/> </p>
 
 #
 
@@ -54,7 +52,8 @@ In everyday life, I love to see the world with an artistic view and am easily sa
  <summary><h3>🎯 Ongoing Projects</h3></summary>
   <ul>
     <li>EduLabs - 2nd year Software Project</br> 
-    Edulabs is a student management system for private institutions. It is a collaborative platform for all parties in the organization to manage their work.</br>
+    Edulabs is a student management system for private institutions. It is a collaborative platform for all parties in the organization to 
+    manage their work.</br>
     Role: Full Stack Developer</br>
     Technologies: Angular, SpringBoot, MySQL</li></p>
     <li>Cash Map - Solo Project</br> 
