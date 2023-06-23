@@ -1,4 +1,4 @@
-# Dulara Dinuli 🤗❤️  
+# Hey, I'm Dulara Dinuli 🤗❤️  
 
 **` An artistic creature with a passion for programming 👩‍🎨💻 `**
 
