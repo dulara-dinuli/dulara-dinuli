@@ -44,9 +44,9 @@ In everyday life, I love to see the world with an artistic view and am easily sa
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dulara-dinuli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=dulara-dinuli&show_icons=true&theme=gruvbox" alt="GitHub stats"/> 
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=dulara-dinuli&show_icons=true&theme=gruvbox" alt="GitHub stats"/> 
 
-<img align="right" width="48%" src="https://streak-stats.demolab.com?user=dulara-dinuli&theme=gruvbox&border_radius=4.5" alt="GitHub Streak"/> </br></br></br></br></br></br></br>
+<img align="right" width="49%" src="https://streak-stats.demolab.com?user=dulara-dinuli&theme=gruvbox&border_radius=4.5" alt="GitHub Streak"/> </br></br></br></br></br></br></br>
 
 #
 
