@@ -2,7 +2,7 @@
 
 **` An artistic creature with a passion for programming 👩‍🎨💻 `**
 
-<p style="font-size:'5px';"> An enthusiastic, self-motivated, and creative younger. Currently, I am a 2nd year IT undergraduate at the University of Moratuwa, Sri Lanka. I have a passion for programming and my first spark in programming started in my school days and continues till date.⏳</br>
+<p style="font-size:'5px';"> An enthusiastic, self-motivated, and creative younger. Currently, I am a 3rd year IT undergraduate at the University of Moratuwa, Sri Lanka. I have a passion for programming and my first spark in programming started in my school days and continues till date.⏳</br>
 In everyday life, I love to see the world with an artistic view and am easily satisfied when surrounded by art, music and books and when I do any task at my best. I enjoy learning and growing and this is the place to test and manage my work with the intention of building up myself.❤️ </p>
 
 ---
@@ -61,7 +61,7 @@ In everyday life, I love to see the world with an artistic view and am easily sa
     <li>CashMap - Solo Project</br> 
     CashMap is a personal budget-handling app that helps to manage users' daily transactions with a few extra features.</br>
     Role: Full Stack Developer</br>
-    Technologies: Java (IDE - NetBeans)</li>
+    Technologies: Java (IDE - NetBeans), MySQL</li>
   </ul>
 </details>
 
