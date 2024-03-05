@@ -51,11 +51,6 @@ In everyday life, I love to see the world with an artistic view and am easily sa
 <details>
  <summary><h3>🎯 Ongoing Projects</h3></summary>
   <ul>
-    <li>EduLabs - 2nd year Software Project</br> 
-    Edulabs is a student management system for private institutions. It is a collaborative platform for all parties in the organization to 
-    manage their work.</br>
-    Role: Full Stack Developer</br>
-    Technologies: Angular, SpringBoot, MySQL</li></p>
     <li>CashMap - Solo Project</br> 
     CashMap is a personal budget-handling app that helps to manage users' daily transactions with a few extra features.</br>
     Role: Full Stack Developer</br>
