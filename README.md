@@ -2,7 +2,7 @@
 
 **` An artistic creature with a passion for programming 👩‍🎨💻 `**
 
-<p style="font-size:'5px';"> An enthusiastic, self-motivated, and creative younger. Currently, I am a 3rd year IT undergraduate at the University of Moratuwa, Sri Lanka. I have a passion for programming and my first spark in programming started in my school days and continues till date.⏳</br>
+<p style="font-size:'5px';"> An enthusiastic, self-motivated, and creative younger. Currently, I am a recent graduate of the University of Moratuwa, Sri Lanka. I have a passion for programming and my first spark in programming started in my school days and continues till date.⏳</br>
 In everyday life, I love to see the world with an artistic view and am easily satisfied when surrounded by art, music and books and when I do any task at my best. I enjoy learning and growing and this is the place to test and manage my work with the intention of building up myself.❤️ </p>
 
 ---
